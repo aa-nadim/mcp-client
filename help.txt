@@ -1,0 +1,13 @@
+uv venv
+.venv\Scripts\activate
+
+
+
+
+uv run client.py path/to/server.py
+
+
+
+uv run client.py C:\Users\ASUS\Desktop\RnD\weather\weather.py
+
+uv run client.py ..\weather\weather.py
