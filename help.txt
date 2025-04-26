@@ -11,3 +11,9 @@ uv run client.py path/to/server.py
 uv run client.py C:\Users\ASUS\Desktop\RnD\weather\weather.py
 
 uv run client.py ..\weather\weather.py
+
+
+
+what weather alerts are active for NY
+
+whats the weather in Sacramento
